@@ -1,4 +1,4 @@
-# AJAX加载HTML、CSS、JavaScript、XML、JSON、
+# AJAX加载HTML、CSS、JavaScript、XML、JSON。
 ## 下载server.js
 ## 安装node-dev
 ```
